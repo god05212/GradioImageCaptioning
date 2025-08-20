@@ -1,3 +1,5 @@
+https://huggingface.co/spaces/god05212/ImageTalkBot
+
 이미지를 업로드하시면 AI가 이미지 내용을 설명해 드립니다.
 
 BLIP 모델 사용
