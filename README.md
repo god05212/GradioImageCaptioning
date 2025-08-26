@@ -1,15 +1,16 @@
+https://huggingface.co/spaces/god05212/gradio_image_captioning
 # gradio_image_captioning
-## 예측모델 기반 Image Captioning 웹서비스
+## 이미지 설명 AI
 프로젝트 기간: 2025/08/20(수)
 <br/>
 
 ## 개요
-이 프로젝트는 Gradio 인터페이스와 Hugging Face의 Transformers 라이브러리를 활용하여, 이미지를 입력하면 해당 이미지에 대한 설명(캡션)을 자동으로 생성해주는 웹 기반 AI 애플리케이션입니다.
+이 프로젝트는 Gradio 인터페이스와 Hugging Face의 Transformers 라이브러리를 활용하여, 이미지를 입력하면 해당 이미지에 대한 설명(캡션)을 자동으로 생성해주는 AI입니다.
 최근 비전-언어 통합 모델의 발전으로, 이미지 속 정보를 자연어로 설명하는 기술(Image Captioning)이 주목받고 있으며, 이는 시각장애인 보조, 이미지 검색 최적화, 자동 콘텐츠 생성 등 다양한 분야에서 활용되고 있습니다.
 본 프로젝트는 이러한 기술을 Gradio 웹서비스에 통합함으로써, 간단한 웹 인터페이스를 통해 누구나 쉽게 AI 이미지 설명 서비스를 체험할 수 있도록 설계되었습니다.
 
 프로젝트 목표
-이미지를 업로드하면 AI가 이미지 내용을 분석하여 자연어로 설명을 생성하는 웹 애플리케이션을 구축합니다.
+이미지를 업로드하면 AI가 이미지 내용을 분석하여 자연어로 설명을 생성하는 웹 인터페이스를 구축합니다.
 <br/>
 
 사용 기술
@@ -123,4 +124,4 @@ Gradio의 간단한 설정만으로 누구나 웹에서 AI 기능 체험 가능
 다국어 번역 기능 연계
 생성된 설명을 한국어/영어 등 다양한 언어로 자동 번역
 
-https://huggingface.co/spaces/god05212/ImageTalkBot
+<img width="870" height="752" alt="image" src="https://github.com/user-attachments/assets/4654b8be-fc81-4148-9886-4dbbb4ce0078" />
