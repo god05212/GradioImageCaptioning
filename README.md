@@ -1,4 +1,3 @@
-https://huggingface.co/spaces/god05212/gradio_image_captioning
 # gradio_image_captioning
 ## 이미지 설명 AI
 프로젝트 기간: 2025/08/20(수)
